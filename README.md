@@ -2,7 +2,8 @@
 
 A photomosaic engine built by the **Michigan Data Science Team (MDST)** at the University of Michigan. This tool recreates any target image using a collection of smaller source photos as tiles — producing a mosaic that reveals the original picture when you zoom out.
 
-
+[Link text](https://image-collage-generate.streamlit.app/)
+![Alt text](example_usage.png)
 ---
 
 ## How It Works
